@@ -128,7 +128,7 @@ Example inputs:
 ```text
 Choose an option (1-3): 1
 Enter the patient's age in years: 25
-Enter the treatment cost ($): 75
+Enter the treatment cost (le): 75
 ```
 
 Output for the first record in a new session:
@@ -137,10 +137,10 @@ Output for the first record in a new session:
 Record added successfully.
 Patient reference: P001
 Patient age: 25
-Consultation fee: $50.00
-Treatment cost: $75.00
-Total bill: $125.00
-Billing threshold status: Above $100 billing threshold
+Consultation fee: le50.00
+Treatment cost: le75.00
+Total bill: le125.00
+Billing threshold status: Above le2400 billing threshold
 ```
 
 Choosing option 2 displays all stored records and the total number of records in the session.

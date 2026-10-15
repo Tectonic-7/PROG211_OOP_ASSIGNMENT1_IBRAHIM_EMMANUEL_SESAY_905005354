@@ -142,6 +142,7 @@ Treatment cost: le75.00
 Total bill: le125.00
 Billing threshold status: Above le2400 billing threshold
 ```
+<img width="1337" height="759" alt="PROG SS2" src="https://github.com/user-attachments/assets/af377b11-1bf2-4516-9457-63d7b56caf30" />
 
 Choosing option 2 displays all stored records and the total number of records in the session.
 
